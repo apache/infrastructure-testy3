@@ -1,0 +1,8 @@
+notifications:
+  commits: private@infra.apache.org
+
+github:
+  description: "Infrastructure Test Repository"
+  labels:
+    - infrastructure
+    - testing
