@@ -1,5 +1,6 @@
 notifications:
-  commits: private@infra.apache.org
+  commits: commits@infra.apache.org
+  pull_requests: commits@infra.apache.org
 
 github:
   description: "Infrastructure Test Repository"
