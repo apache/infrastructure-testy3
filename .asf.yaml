@@ -6,8 +6,7 @@ github:
   description: "Infrastructure Test Repository"
   labels:
     - infrastructure
-    - testing
-  
+    - testing  
   protected_branches:
     main:
       required_pull_request_reviews:
