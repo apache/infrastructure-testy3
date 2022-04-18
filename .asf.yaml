@@ -2,6 +2,8 @@ notifications:
   commits: commits@infra.apache.org
   pullrequests: commits@infra.apache.org
   issues: commits@infra.apache.org
+  commits_by_path:
+    "README.md": humbedooh@apache.org
 
 github:
   description: "Infrastructure Test Repository"
